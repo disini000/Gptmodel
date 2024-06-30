@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.container-fluid {
+    height: 100%;
+}
+
+.bg-dark {
+    background-color: #343a40 !important;
+}
+
+.text-dark a {
+    color: #343a40;
+}
+
+.text-dark a:hover {
+    color: #212529;
+}
